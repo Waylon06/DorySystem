@@ -42,7 +42,7 @@
     <div class="contact">
         <p>联系我们</p>
         <img src="./images/db_qq.jpg" alt="">
-        <p class="qq">www.100000000@qq.com</p>
+        <p class="qq">www.waylon@qq.com</p>
     </div>
 </footer>
 </body>

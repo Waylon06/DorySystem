@@ -10,7 +10,7 @@
 
 ### Login_Page
 
-![markdown pictrue](page_info\login_page.png)
+![markdown pictrue](.\page_info\login_page.png)
 
 ### Super_Page
 
